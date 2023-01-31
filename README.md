@@ -2,8 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3. The project is fully responsive and allows users to register and sign up their accounts.
 
-## Register 
-The rigistration page screen looks like this. 
+## Registration
+The Sign-Up page screen looks like this. 
+![Screenshot-7](https://user-images.githubusercontent.com/80250498/215770732-37c74f4c-63a5-439b-97ae-8a67f6cd7fd2.png)
 
 
 ## Login 
