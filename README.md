@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Register 
 The rigistration page screen looks like this. 
+![Screenshot-4](https://user-images.githubusercontent.com/80250498/215768122-01caff39-f348-4fc9-8cfd-0dde646502fa.png)
 
 ## Login 
 The Login page screen looks like this.
