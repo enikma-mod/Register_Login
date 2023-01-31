@@ -1,14 +1,14 @@
-# RegisterLogin
+# User's Sign In / Login in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3. The project is fully responsive and allows users to register and sign up their accounts.
 
 ## Register 
 The rigistration page screen looks like this. 
-![Screenshot-4](https://user-images.githubusercontent.com/80250498/215768122-01caff39-f348-4fc9-8cfd-0dde646502fa.png)
+
 
 ## Login 
 The Login page screen looks like this.
-
+![Screenshot-4](https://user-images.githubusercontent.com/80250498/215768122-01caff39-f348-4fc9-8cfd-0dde646502fa.png)
 
 ## Development server
 
